@@ -3,3 +3,6 @@
 
 ## Screenshot
 ![image](screenshot.png)
+
+## Enabling
+spicetify config current_theme Graphitedark
